@@ -32,4 +32,4 @@ I am an extremely inexperienced programmer, but I tried to make this bootloader.
 ## Contact
 I can be found on the [Dragonfly](https://github.com/df-mc/dragonfly "github Dragonfly") server.
 
-[![Chat on Discord](https://img.shields.io/badge/Chat-On%20Discord-738BD7.svg?style=for-the-badge)](https://discord.gg/evzQR4R)
+[![Chat on Discord](https://img.shields.io/badge/Chat-On%20Discord-738BD7.svg?style=for-the-badge)](https://discord.gg/U4kFWHhTNR)
